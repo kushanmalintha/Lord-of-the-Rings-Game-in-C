@@ -1,1 +1,8 @@
 # Lord-of-the-Rings-Game-in-C
+Welcome to the "Lord of the Rings Game" project, developed in C! This project brings the epic world of Middle-earth to life in an engaging adventure game. Players are challenged to navigate through a dynamic map, encountering various obstacles and employing strategic planning to reach their destination. The project is structured around two major milestones, each adding its unique layer of complexity and excitement.
+
+Milestone 1: Shortest Path Navigation
+In the first milestone, the core challenge is to find the shortest path to reach a specified destination on a predefined map. Players must navigate efficiently, considering various conditions and constraints imposed within the game. This milestone focuses on implementing and optimizing pathfinding algorithms, ensuring that players can traverse the map in the most effective manner. The goal is to test and enhance the player's problem-solving skills, providing a robust framework for navigating through complex environments.
+
+Milestone 2: Teleportation Doors
+The second milestone elevates the challenge by introducing teleportation doors. These doors act as shortcuts, allowing players to bypass certain obstacles or reach distant areas more quickly. However, the addition of teleportation mechanics requires a new level of strategic thinking. Players must determine the optimal use of these doors to minimize travel time while still considering the constraints and conditions present in the game. This milestone not only tests the player's ability to adapt to new mechanics but also enhances the overall complexity and depth of the game.
